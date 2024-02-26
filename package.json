@@ -22,7 +22,7 @@
     "music-metadata": "^1.1.0",
     "node-static": "^0.7.9",
     "request-promise": "~1.0.2",
-    "sonos-discovery": "git://github.com/suprnova32/node-sonos-discovery.git#master",
+    "sonos-discovery": "git+https://github.com/suprnova32/node-sonos-discovery.git#master",
     "wav-file-info": "0.0.8",
     "elevenlabs-node": "2.0.1"
   },
